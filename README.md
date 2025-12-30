@@ -26,9 +26,7 @@ The purpose of this repo is to:
 big-frontend/
  ├── javascript/
  │    ├── 001-example/
- │    │     ├── question.md
  │    │     ├── solution.js
- │    │     └── explanation.md
  │    └── ...
  ├── html-css/
  ├── browser/
